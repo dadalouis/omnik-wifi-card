@@ -1,0 +1,31 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Set up Omnik WiFi Card",
+        "description": "Enter the connection details for your Omnik solar inverter's WiFi card.",
+        "data": {
+          "host": "IP Address",
+          "serial": "Serial Number",
+          "port": "Port"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Cannot connect to the Omnik WiFi card. Check the IP address, serial number, and port."
+    },
+    "abort": {
+      "already_configured": "This inverter is already configured."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Omnik WiFi Card Options",
+        "data": {
+          "scan_interval": "Polling interval (seconds)"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "domain": "omnik_wifi_card",
+  "name": "Omnik WiFi Card",
+  "version": "0.1.0",
+  "documentation": "https://github.com/dadalouis/omnik-wifi-card",
+  "issue_tracker": "https://github.com/dadalouis/omnik-wifi-card/issues",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@dadalouis"],
+  "iot_class": "local_polling",
+  "config_flow": true
+}
