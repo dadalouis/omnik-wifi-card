@@ -1,0 +1,11 @@
+{
+  "0": "sensor.py",
+  "1": "_parse_response",
+  "2": "OmnikDataUpdateCoordinator",
+  "3": "manifest.json",
+  "4": "OmnikOptionsFlow",
+  "5": "omnik.py",
+  "6": "Omnik WiFi Card — Home Assistant Integration",
+  "7": "async_setup_entry",
+  "8": "tests/__init__.py"
+}
